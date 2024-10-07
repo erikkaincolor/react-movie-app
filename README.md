@@ -9,7 +9,7 @@ This movie app utilizes React hooks, state, and component feats to dynamically d
    ```
 
 2. **Install dependencies:**
-   Make sure you have Node.js installed. I used **React 17**. To install the neededd packages:
+   Make sure you have Node.js installed. I used **React 17**. To install the needed packages:
    ```bash
    npm install
    ```
