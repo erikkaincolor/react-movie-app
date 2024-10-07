@@ -1,5 +1,7 @@
 This movie app utilizes React hooks, state, and component feats to dynamically display various searched movies from the OMDB movie API.
 
+![FilmDom Screenshot](https://github.com/erikkaincolor/react-movie-app/raw/main/filmdom.png)
+
 ### To Use On Your Own:
 
 1. **Clone the repository to your local machine:**
